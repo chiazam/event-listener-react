@@ -1,7 +1,7 @@
 // import logo from './logo.svg';
 // import './App.css';
 // import './statik/square.css';
-// import React from 'react';
+import React from 'react';
 // import { Clock } from './components/clock.js';
 
 
